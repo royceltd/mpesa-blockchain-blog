@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Josphat Rono`,
+      summary: `Founder of Royce Technologies Ltd`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Royce Technologies Ltd a software company based in Nairobi, Kenya`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `royce_ltd`,
     },
   },
   plugins: [
